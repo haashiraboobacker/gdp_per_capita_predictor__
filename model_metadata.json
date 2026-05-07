@@ -1,0 +1,22 @@
+{
+  "feature_cols": [
+    "year",
+    "Inflation (CPI %)",
+    "GDP (Current USD)",
+    "GDP per Capita (Current USD)",
+    "Unemployment Rate (%)",
+    "Interest Rate (Real, %)",
+    "Inflation (GDP Deflator, %)",
+    "Current Account Balance (% GDP)",
+    "Government Expense (% of GDP)",
+    "Government Revenue (% of GDP)",
+    "Tax Revenue (% of GDP)",
+    "Gross National Income (USD)",
+    "Public Debt (% of GDP)"
+  ],
+  "target": "GDP Growth (% Annual)",
+  "best_k": 29,
+  "r2_test": 0.1079,
+  "mae_test": 3.2456,
+  "rmse_test": 5.6569
+}

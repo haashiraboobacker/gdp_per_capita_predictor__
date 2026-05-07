@@ -1,15 +1,3 @@
-"""
-Economic Growth Predictor  ─  Streamlit App
-============================================
-"Colorful Minimalist Predictor"
-Features:
-  • Slider/number inputs for 13 economic indicators
-  • Loads model.joblib + scaler.joblib
-  • Applies scaler before model.predict()
-  • Animated prediction output
-  • Dark glassmorphism design
-"""
-
 import streamlit as st
 import joblib
 import numpy as np
